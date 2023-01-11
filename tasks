@@ -1,0 +1,15 @@
+# 
+echo
+#
+# Hei Andre.
+## list
+echo
+
+EOF 
+>
+* Dette
+* Er 
+* En oppgavebehandler.
+<< cat
+# To ord med deg og Aage
+## Vise Aage ./dette og Dette

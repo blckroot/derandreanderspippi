@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[user]
+	email = drwho@blckswan.no
+	name = Doctor Who
+[remote "master"]
+	url = git@github.com:blckswan-ungtb10d/todo.git
+	fetch = +refs/heads/*:refs/remotes/master/*
+	gh-resolved = base
+[branch "master"]
+	remote = master
+	merge = refs/heads/master
